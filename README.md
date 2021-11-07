@@ -8,6 +8,10 @@ Sample website with plenty of files for demos
 
 ## Purpose 1
 
+As stated aboce, the main purpose of this is to show simple demos of how this all works.
+
 ## Deployment
+
+This is a simple web project
 
 ## Purpose 2
