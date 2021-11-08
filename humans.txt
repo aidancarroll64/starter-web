@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aidan Carroll aidancarroll64@gmail.com @aidancarroll64
 
 # THANKS
 
