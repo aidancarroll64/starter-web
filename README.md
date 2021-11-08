@@ -16,5 +16,7 @@ This is a simple web project
 
 ## Purpose 2
 
+Please fork this repository and then issue pull requests for review
+
 ### Copyright
 Aidan Carroll
