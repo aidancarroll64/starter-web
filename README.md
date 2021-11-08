@@ -15,3 +15,6 @@ As stated aboce, the main purpose of this is to show simple demos of how this al
 This is a simple web project
 
 ## Purpose 2
+
+### Copyright
+Aidan Carroll
