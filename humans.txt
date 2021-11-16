@@ -6,7 +6,7 @@
     Aidan Carroll aidancarroll64@gmail.com @aidancarroll64
 
 # THANKS
-Thanks to all my students
+Thanks to all my students. Some more text
     <name>
 
 # TECHNOLOGY COLOPHON
