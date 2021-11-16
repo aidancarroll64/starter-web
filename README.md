@@ -21,4 +21,4 @@ Adding more changes from myfeature
 Please fork this repository and then issue pull requests for review
 
 ### Copyright
-Aidan Carroll
+Aidan Carroll. All rights reserved
